@@ -23,7 +23,7 @@ DTMoney receives cash inflows and outflows and returns the total.
 <p style="color: red;">
 This project was developed during the Ignite course. In this project I reviewed the concepts of context using the react context api and was introduced to MirageJS a JavaScript library that lets frontend developers mock out backend APIs.
 </p>
-<img alt="Tela do aplicativo" src="https://github.com/HerbertSousa/Ignite-02-dtmoney/blob/main/src/assets/dtmoney.gif" width="100%" />
+<img alt="Tela do aplicativo" src="https://github.com/HerbertSousa/Ignite-02-dtmoney/blob/main/src/assets/newdtmoney.gif" width="100%" />
 
 ## 🚀 Technologies
 
