@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/HerbertSousa/Ignite-02-dtmoney/blob/main/src/assets/doclogo.svg" width="200px" />
+	<img alt="Logo" src="https://github.com/HerbertSousa/Ignite-02-dtmoney/blob/main/src/assets/doclogo.png"/>
 </h1>
 
 <h3 align="center">
@@ -23,7 +23,7 @@ DTMoney receives cash inflows and outflows and returns the total.
 <p style="color: red;">
 This project was developed during the Ignite course. In this project I reviewed the concepts of context using the react context api and was introduced to MirageJS a JavaScript library that lets frontend developers mock out backend APIs.
 </p>
-<img alt="Tela do aplicativo" src="https://github.com/HerbertSousa/GitHub_Explorer/blob/master/src/assets/dtmoney.gif?raw=true" width="500px" />
+<img alt="Tela do aplicativo" src="https://github.com/HerbertSousa/Ignite-02-dtmoney/blob/main/src/assets/dtmoney.gif" width="500px" />
 
 ## 🚀 Technologies
 
