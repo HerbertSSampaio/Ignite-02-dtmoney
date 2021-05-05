@@ -35,7 +35,7 @@ Technologies that I used to develop this web client
 - [Polished](https://github.com/styled-components/polished)
 - [Axios](https://github.com/axios/axios)
 - [React Modal](https://github.com/reactjs/react-modal)
-- [MirageJS](https://github.com/reactjs/react-modal)
+- [MirageJS](https://miragejs.com/docs/getting-started/introduction/)
 
 ## 💻 Getting started
 
